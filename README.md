@@ -26,7 +26,7 @@ The dataset includes the comments made for a specific product group, the comment
 **Text Visualization** <br/>
 **Sentiment Analysis** <br/>
 **Preparation for Machine Learning** <br/>
-**odeling (Logistic Regression)** <br/>
+**Modeling (Logistic Regression)** <br/>
 **Modeling (Random Forest)** <br/>
 
 
